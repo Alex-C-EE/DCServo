@@ -11,10 +11,14 @@
             "id": "ca3faeff42932408",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Component Analysis/COMP-STM32G4A1xE.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "COMP-STM32G4A1xE"
             }
           }
         ]
@@ -36,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -65,8 +70,8 @@
             "state": {
               "type": "starred",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "starred"
             }
           },
           {
@@ -160,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,17 +174,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af2ff57a94ee3b69",
+  "active": "ca3faeff42932408",
   "lastOpenFiles": [
+    "Template/COMP.md",
+    "Component Analysis/COMP-STM32G4A1xE.md",
+    "Component Analysis/POWER/COMP-LMR33630.md",
+    "Component Analysis/1. DATASHEETS/Unconfirmed 962991.crdownload",
+    "Component Analysis/1. DATASHEETS/stm32g4a1ke.pdf",
+    "Component Analysis/1. DATASHEETS",
+    "Component Analysis/POWER/COMP-MCP1727.md",
+    "ENV-DCServo.md",
+    "Component Analysis/POWER",
+    "Template/INFO.md",
+    "Template/SPEC.md",
+    "Template/ADR.md",
+    "Template",
+    "DCServo Project Hub.md",
+    "INFO/Untitled.md",
+    "INFO/External",
     "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_210731.zip",
     "2. Little Boy - External (4.1A @ 36V)/1. Hardware/fp-DC5F.tmp",
     "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_175511.zip",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_174442.zip",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/~Little Boy - External.kicad_pcb.lck",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/fp-4215.tmp",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/~_autosave-Little Boy - External.kicad_pcb.lck",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_173928.zip",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/_autosave-Little Boy - External.kicad_pcb",
-    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_172908.zip"
+    "2. Little Boy - External (4.1A @ 36V)/1. Hardware/Little Boy - External-backups/Little Boy - External-2024-11-18_174442.zip"
   ]
 }

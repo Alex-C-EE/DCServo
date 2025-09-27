@@ -1,0 +1,1 @@
+KiCAD Libs of this project. See DCServo.KiCCAD_Sym for the schematic library, /DCServo.pretty for the footprint lib, /src for original as-downloaded component libraries 

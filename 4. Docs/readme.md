@@ -1,0 +1,2 @@
+Can largely ignore. As DCServo will probably be my bachelor's project, I will keep track of the thought process and evolution of stuff in here to make my writing easier down the line.
+Also contains math! Obsidian and MathCAD recommended for viewing.
